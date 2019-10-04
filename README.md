@@ -13,17 +13,18 @@ The project uses:
 
 ## GUI 
 
-### Pool Size- Size of population of each generation in the genetic algorithm.
+*Pool Size- Size of population of each generation in the genetic algorithm.
 
-Mutation Rate- Percent of offspring to be mutated in each step.
+*Mutation Rate- Percent of offspring to be mutated in each step.
 
-Add Easy/Medium/Hard Example Buttons- Load a puzzle of the selected level for testing (to avoid inserting puzzle just for testing).
+*Add Easy/Medium/Hard Example Buttons- Load a puzzle of the selected level for testing (to avoid inserting puzzle just for testing).
 
-Cheat Check Box- Adds additional constraints while performing mutation and creating a random pool, left as optional because easy examples are solved too fast when this option is on. Recommended for harder puzzles.
+*Cheat Check Box- Adds additional constraints while performing mutation and creating a random pool, left as optional because easy examples are solved too fast when this option is on. Recommended for harder puzzles.
 
-Reset Button- Clear the board.
+*Reset Button- Clear the board.
 
-Solve Button- Start the calculations proccess.
+*Solve Button- Start the calculations proccess.
+
 
 ## Requirements for running
 *Microsoft .NET Framework needs to be installed in order to run this C++/CLI exe file.
