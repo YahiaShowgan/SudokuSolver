@@ -13,7 +13,7 @@ The project uses:
 
 ## GUI 
 
-Pool Size- Size of population of each generation in the genetic algorithm.
+### Pool Size- Size of population of each generation in the genetic algorithm.
 
 Mutation Rate- Percent of offspring to be mutated in each step.
 
@@ -24,3 +24,8 @@ Cheat Check Box- Adds additional constraints while performing mutation and creat
 Reset Button- Clear the board.
 
 Solve Button- Start the calculations proccess.
+
+## Requirements for running
+*Microsoft .NET Framework needs to be installed in order to run this C++/CLI exe file.
+*The project is the folder called Sudoku.
+*The executable is located at "Sudoku/Release/Sudoku.exe".
