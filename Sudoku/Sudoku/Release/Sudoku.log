@@ -1,0 +1,15 @@
+﻿  Calculations.cpp
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\Calculations.cpp(12,36): warning C4018: '<': signed/unsigned mismatch
+  MainForm.cpp
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\Calculations.cpp(15,22): warning C4244: '-=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\Calculations.cpp(15,22): warning C4244:         with
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\Calculations.cpp(15,22): warning C4244:         [
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\Calculations.cpp(15,22): warning C4244:             _Ty=double
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\Calculations.cpp(15,22): warning C4244:         ]
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\MainForm.h(888,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\MainForm.h(907,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\MainForm.h(916,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\MainForm.h(953,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Sudoku\MainForm.h(926,17): warning C4930: 'Chromosome c(void)': prototyped function not called (was a variable definition intended?)
+  Sudoku.vcxproj -> C:\Users\Yahia\Dropbox\אורט 2\סמסטר 9\בינה מלאכותית\Sudoku\Release\Sudoku.exe
